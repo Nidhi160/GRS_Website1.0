@@ -1,0 +1,35 @@
+body{
+  background-color: #A5BECC;
+  }.book-name{
+  text-align: center;
+  padding-bottom: 10%;
+  font-family: 'Ibarra Real Nova';
+}
+.book-img{
+margin-top: 5%;
+border:10px solid;
+width:70%;
+height:80%;
+
+}
+.post-1{
+  /* display:inline-flex; */
+}
+.auth-name{
+  text-align:center;
+  font-family:'Rubik Moonrocks', cursive;
+  font-size: 2rem;
+  color: #06283D;
+  font-weight: lighter;
+}
+.book-name{
+  margin-top: 5%;
+  color: #1F4690;
+  font-weight: bolder;
+  font-size: 60px;
+}
+.para-1{
+  font-weight: 20px;
+  font-size: 25px;
+  font-family: 'Satisfy';
+}

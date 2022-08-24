@@ -1,0 +1,100 @@
+.body{
+  margin:0px;
+  }
+.container-fluid{
+  }
+.layer{
+  opacity:30%;
+}
+.Top-section{
+  background-color: #fff;
+}
+.logo-img{
+  width:100%;
+  height:500px;
+  padding-bottom: 8%;
+
+}
+
+.nav-link{
+  color:#000;
+}
+
+/* .link-bar{
+background-color: #fff;} */
+/* .Top-section{
+  background-color: #000;
+} */
+
+.navbar{
+display:flex;
+background-color:#fff;
+position:relative;
+}
+.navbar-brand{
+  /* font-family: 'Open Sans', sans-serif; */
+  font-family: 'Cormorant SC', serif;
+  font-size: 40px;
+  color: #242F9B;
+}
+.nav-link{
+  color:#242F9B;
+}
+
+.middle-section{
+  background-color:#66BFBF;
+}
+.testimonial-image{
+  width:1200px;
+  height:600px;
+  /* border-radius: 5%; */
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  padding:5%;
+}
+
+#id{
+  position: relative;
+}
+.testimonial-text{
+  color:#fff;
+  text-align: center;
+  font-family: 'Rubik Moonrocks', cursive;
+  padding-top:2%;
+  font-size: 100px;
+}
+
+.book-images{
+  border-radius: 10%;
+  height:400px;
+  width:300px;
+  align-items: center;
+}
+.post-text{
+  text-align: center;
+  font-family: 'Rubik Moonrocks', cursive;
+  font-size: 120px;
+}
+.post-1{
+  padding: 0% 5%;
+}
+.para-text{
+  display: block;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 45px;
+}
+.author-name{
+  color:#06283D;
+  font-size: 25px;
+  padding:7% 0%;
+
+}
+.post-area{
+  text-decoration: none;
+  color:#000;
+}
+/* .logo-img{
+  padding-top: 2%;
+} */
